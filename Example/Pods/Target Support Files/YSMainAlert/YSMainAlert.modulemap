@@ -1,0 +1,6 @@
+framework module YSMainAlert {
+  umbrella header "YSMainAlert-umbrella.h"
+
+  export *
+  module * { export * }
+}

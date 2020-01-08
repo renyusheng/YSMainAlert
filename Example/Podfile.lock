@@ -1,0 +1,16 @@
+PODS:
+  - YSMainAlert (0.1.0)
+
+DEPENDENCIES:
+  - YSMainAlert (from `../`)
+
+EXTERNAL SOURCES:
+  YSMainAlert:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YSMainAlert: 52f9e824cb910d1ff76004d11ea4f0c32e8813f1
+
+PODFILE CHECKSUM: 2b907e4f9f5c4ca61db3c9ce3ccf19c72e0b905b
+
+COCOAPODS: 1.7.5

@@ -18,10 +18,10 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
-                       DESC
+  'YSMainAlert'
+  DESC
 
-  s.homepage         = 'https://github.com/renyusheng/YSMainAlert'
+  s.homepage         = 'https://github.com/renyusheng/YSMainAlert.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'renyusheng' => '770324717@qq.com' }
